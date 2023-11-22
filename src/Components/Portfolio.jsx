@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/logo.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Logo reactjs html css et javscript";
 
 /**
  * Project list
@@ -31,28 +31,27 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Booki",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Création d'un site frontend pour une agence de location de logement pour particulier. HTML5 et CSS3",
+    url: "https://sausse93.github.io/Projet-Booki/",
   },
   {
-    title: "Web Development for Beginners",
-    description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+    title: "Photographie-Sophie Bluel",
+    description:"Création d'un site frontend pour une photographe en affichant les photos via une API. HTML5 CSS3 et Javascript ",
+    url: "https://github.com/sausse93/Projet-Sophie-Bluel",
   },
   {
-    title: "My Resume Site",
+    title: "Kasa",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Creation d'un site en React pour la location de logement.",
+    url: "https://sausse93.github.io/Kasa-projetP6/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Nina Carducci- Photographie",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Optimisation et debug d'un site d'une photographe et amelioration des SEO. HTML CSS Javascript",
+    url: "https://sausse93.github.io/ProjetP5/",
   },
 ];
 
