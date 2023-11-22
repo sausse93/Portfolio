@@ -27,7 +27,7 @@ const siteProps = {
   name: "Sofiane Messaoudi",
   title: "Web developpeur Frontend",
   email: "sofiane.messaoudi1996@gmail.com",
-  gitHub: "https://github.com/sausse93",
+  gitHub: "sausse93",
   instagram: "",
   linkedIn: "",
   medium: "",
