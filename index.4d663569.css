@@ -123,4 +123,42 @@ img.socialIcon {
   width: 30px;
 }
 
+@media screen and (max-width: 1024px) {
+  ul {
+    width: 100%;
+    padding: 0;
+    gap: 7rem !important;
+    margin: 0 !important;
+  }
+
+  .apropos {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+  }
+
+  .detail {
+    width: 100%;
+    margin: 0 !important;
+  }
+
+  #home h1 {
+    font-size: 5em;
+  }
+
+  .container {
+    flex-direction: column;
+    display: flex;
+  }
+
+  #about {
+    padding: 0 !important;
+  }
+
+  .padding img {
+    display: none;
+  }
+}
+
 /*# sourceMappingURL=index.4d663569.css.map */
