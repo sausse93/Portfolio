@@ -135,7 +135,7 @@ img.socialIcon {
     
     width: 100%;
     margin: 0 !important;
-    padding: 0;
+    padding: 0 !important;
     gap: 7rem !important; 
     
     
@@ -155,7 +155,7 @@ img.socialIcon {
     
   }
   #home h1 {
-    font-size: 5em
+    font-size: 5em;
   }
 
   .container {
@@ -169,5 +169,5 @@ img.socialIcon {
     display: none;
     
   }
-  
+
 }
