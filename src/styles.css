@@ -60,6 +60,7 @@ h2 {
   margin: 0;
   padding-top: 1rem;
   
+  
 }
 #home h2 {
   color: white;
@@ -126,4 +127,46 @@ a:hover {
 img.socialIcon {
   height: 30px;
   width: 30px;
+}
+
+
+@media screen and (max-width: 1024px) {
+  ul {
+    
+    width: 100%;
+    margin: 0 !important;
+    padding: 0;
+    gap: 7rem !important; 
+    
+    
+    
+  }
+  
+  .apropos {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .detail {
+    margin: 0 !important;
+    width: 100%;
+   
+    
+  }
+  #home h1 {
+    font-size: 5em
+  }
+
+  .container {
+    display: flex;
+    flex-direction: column;
+  }
+  #about {
+    padding: 0 !important;
+  }
+  .padding img {
+    display: none;
+    
+  }
 }

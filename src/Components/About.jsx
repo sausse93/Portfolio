@@ -53,7 +53,7 @@ const About = () => {
   return (
     <section className="padding" id="about">
       <img className="background" src={image} alt={imageAltText} />
-      <div
+      <div className="apropos"
         style={{
           backgroundColor: "white",
           width: "50%",
@@ -79,7 +79,7 @@ const About = () => {
           ))}
         </ul>
         <hr />
-        <p style={{ padding: "1rem 3rem 0" }}>{detailOrQuote}</p>
+        <p className="detail" style={{ padding: "1rem 3rem 0" }}>{detailOrQuote}</p>
       </div>
     </section>
   );
