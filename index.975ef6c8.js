@@ -27182,7 +27182,7 @@ var _motionBackgroundJpgDefault = parcelHelpers.interopDefault(_motionBackground
 const imageAltText = "purple and blue abstract background";
 /**
  * Sort description that expands on your title on the Home component.
- */ const description = "Tout fraichement diplom\xe9 en tant que developpeur web frontend junior, je suis \xe0 la recherche de nouveau d\xe9fi.";
+ */ const description = "Tout fraichement diplom\xe9 en tant que developpeur Web fullstack, je suis \xe0 la recherche de nouveau d\xe9fi.";
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
@@ -27200,7 +27200,7 @@ const imageAltText = "purple and blue abstract background";
  * Use this to give more information about what you are passionate about,
  * how you best work, or even a quote. This will help someone learn more
  * about you on a professional level.
- */ const detailOrQuote = "Etant d'une formation d'orgine dans la biologie, mon dernier emploi me fait decouvrir le monde de l'informatique. En recherchant pour ma reconversion je me suis pris de passion pour le developpement Web frontend et back.";
+ */ const detailOrQuote = "Etant d'une formation d'orgine dans la biologie, mon dernier emploi me fait decouvrir le monde de l'informatique. En recherchant pour ma reconversion je me suis pris de passion pour le developpement Web.";
 const About = ()=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("section", {
         className: "padding",
